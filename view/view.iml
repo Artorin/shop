@@ -18,6 +18,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="logic" />
+    <orderEntry type="library" name="Maven: javax.faces:jsf-api:2.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax:javaee-web-api:7.0" level="project" />
   </component>
 </module>
